@@ -1,0 +1,14 @@
+
+!!! I PROVIDE THIS PROJECT 'AS IS', WITHOUT ANY WARRANTY !!!
+
+SVG files in MaxKeyboard subdirectory (with the exception of
+'YOUR DESIGN LAYER' layer) are copyright by Max Keyboard.
+
+The Commodore ('C=') sign was taken from Wikipedia - although
+it was marked as Public Domain, it is a registered trademark,
+it's usage is certainly restricted under your jurisdiction.
+
+Feel free to use/modify/redistribute this as you wish (I don't
+mind commercial usage) - just please be careful about font
+licensing, trademarks, etc. I'm not a lawyer and I can't assist
+you with legal issues.
