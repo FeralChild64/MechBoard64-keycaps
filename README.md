@@ -2,10 +2,10 @@
 
 We've got new *Commodore 64* motherboards available ([C64 Reloaded](https://icomp.de/shop-icomp/en/shop/product/c64-reloaded-mk2.html) without chips, or [Ultimate 64](https://ultimate64.com/) with chips reimplemented in FPGA), we've got new cases ([Pixelwizard](https://shop.pixelwizard.eu/)), we've got a new keyboards ([MechBoard64](https://www.breadbox64.com/mods-for-sale/mechboard64/)), we've got various storage options (*Tapuino*, *SD2IEC*, *Pi1541*, *EasyFlash*, ...) - but we don't have the keycaps, the last element missing to build a brand new *C64*. This document describes a DIY solution I did for myself.
 
-![variant 1](https://github.com/FeralChild64/MechBoard64-keycaps/Photos/full-1-small.jpg "1U keys variant")
-![variant 2](https://github.com/FeralChild64/MechBoard64-keycaps/Photos/full-2-small.jpg "1.5U keys variant")
-![keycaps 1](https://github.com/FeralChild64/MechBoard64-keycaps/Photos/keycaps-1-small.jpg "keycaps")
-![keycaps 2](https://github.com/FeralChild64/MechBoard64-keycaps/Photos/keycaps-2-small.jpg "keycaps")
+![variant 1](https://github.com/FeralChild64/MechBoard64-keycaps/blob/master/Photos/full-1-small.jpg "1U keys variant")
+![variant 2](https://github.com/FeralChild64/MechBoard64-keycaps/blob/master/Photos/full-2-small.jpg "1.5U keys variant")
+![keycaps 1](https://github.com/FeralChild64/MechBoard64-keycaps/blob/master/Photos/keycaps-1-small.jpg "keycaps")
+![keycaps 2](https://github.com/FeralChild64/MechBoard64-keycaps/blob/master/Photos/keycaps-2-small.jpg "keycaps")
 
 # Legal notice
 
@@ -64,7 +64,7 @@ Some more notes about ordering the keycaps:
 * there actually is a supplier (*Pimp My Keyboard*), which offers 9U spacebar - but (as of writing this guide) they don't offer custom printed keycaps; I have tried to use their spacebar with *Max Keyboard* keycaps, but I honestly don't recommend such a mix; the material is visibly different, the keycap profile is different - *Pimp My Keyboard* spacebar is much higher than *Max Keyboard* keycaps, which makes typing on such mixed set really uncomfortable
 * as you probably noticed, the main SVG contains much more keycaps than needed; thus I have drawn 1U function keys and others (in case my attempt to adapt 1.5U keycaps failed), also experimented with 1.75U R2 *RETURN* key and alternative *C=* key (*CMD* - for those wanting to avoid trademark restriction) - you don't have to remove the drawings, they don't add any extra cost
 
-SVG files are available here: [main one](https://github.com/FeralChild64/MechBoard64-keycaps/MaxKeyboard/src-keys-main.svg), [F5/F6 key](https://github.com/FeralChild64/MechBoard64-keycaps/MaxKeyboard/src-keys-f5.svg), [F7/F8 key](https://github.com/FeralChild64/MechBoard64-keycaps/MaxKeyboard/src-keys-f7.svg). Before ordering please once again check that I didn't any mistake, especially regarding the graphics.
+SVG files are available here: [main one](https://github.com/FeralChild64/MechBoard64-keycaps/blob/master/MaxKeyboard/src-keys-main.svg), [F5/F6 1.5U key](https://github.com/FeralChild64/MechBoard64-keycaps/blob/master/MaxKeyboard/src-keys-f5.svg), [F7/F8 1.5U key](https://github.com/FeralChild64/MechBoard64-keycaps/blob/master/MaxKeyboard/src-keys-f7.svg). Before ordering please once again check that I didn't any mistake, especially regarding the graphics.
 
 ### 1.5U keycap inserts
 
@@ -73,7 +73,7 @@ Unfortunately, the *MechBoard64* was created with the original *C64* keycaps in 
 * use the 1U keycaps instead - this is the solution I decided to use for now
 * adapt the 1.5U keycaps to have the stem in a proper position
 
-If you want to go with the second solution - be warned, my design is not too good, typing experience is terrible (key is not really stable, especially if you type the side without a stem). You will have to cut away the 1.5U key stems (I used a *Dremel* with a milling bit - it took me 5 minutes for the first one, but only 1 minute for the last one). 3D print new keycap inerts ([design I have tried](https://github.com/FeralChild64/MechBoard64-keycaps/MaxKeyboard/print-adapter-my.stl), [it's source code](https://github.com/FeralChild64/MechBoard64-keycaps/MaxKeyboard/print-adapter-my.scad), [design probably a little bit better but not tested yet](https://github.com/FeralChild64/MechBoard64-keycaps/MaxKeyboard/print-adapter-untested.stl), [it's source code](https://github.com/FeralChild64/MechBoard64-keycaps/MaxKeyboard/print-adapter-untested.scad) - both adapters are 22.5mm x 13.5mm x 5mm in size) and glue them in; be careful to glue them the proper way (especially the *RESTORE* key).
+If you want to go with the second solution - be warned, my design is not too good, typing experience is terrible (key is not really stable, especially if you type the side without a stem). You will have to cut away the 1.5U key stems (I used a *Dremel* with a milling bit - it took me 5 minutes for the first one, but only 1 minute for the last one). 3D print new keycap inerts ([design I have tried](https://github.com/FeralChild64/MechBoard64-keycaps/blob/master/MaxKeyboard/print-adapter-my.stl), [it's source code](https://github.com/FeralChild64/MechBoard64-keycaps/blob/master/MaxKeyboard/print-adapter-my.scad), [design probably a little bit better but not tested yet](https://github.com/FeralChild64/MechBoard64-keycaps/blob/master/MaxKeyboard/print-adapter-untested.stl), [it's source code](https://github.com/FeralChild64/MechBoard64-keycaps/blob/master/MaxKeyboard/print-adapter-untested.scad) - both adapters are 22.5mm x 13.5mm x 5mm in size) and glue them in; be careful to glue them the proper way (especially the *RESTORE* key).
 
 # Future
 
