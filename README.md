@@ -9,7 +9,7 @@ We've got new *Commodore 64* motherboards available ([C64 Reloaded](https://icom
 
 # Legal notice
 
-License for the materials is available [here](https://github.com/FeralChild64/MechBoard64-keycaps/LEGAL.txt). It's as free and liberal, as I could reasonably make it. Of course, **I do not guarantee anything** - if you follow this guide and annihilate your kitten as a result, it's not my fault!
+License for the materials is available [here](https://github.com/FeralChild64/MechBoard64-keycaps/blob/master/LEGAL.txt). It's as free and liberal, as I could reasonably make it. Of course, **I do not guarantee anything** - if you follow this guide and annihilate your kitten as a result, it's not my fault!
 
 # Terminology
 
